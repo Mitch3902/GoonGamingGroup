@@ -1,47 +1,4 @@
 # ESCAPE FROM NAMALSK
-By GoonGamingGroup [Our Discord](https://discord.gg/goongaminggroup "GGG Discord")
-
-![alt text](https://github.com/BehrTheDon/GGGPics/blob/2cba453a7b646e0c0427be15a16565d0169386a0/EFN.jpg?raw=true "Loading Screen")
-
-## Server Description
-
-ESCAPE FROM NAMALSK is a PvP DayZ server Based on Escape From Tarkov and uses many mods to achieve a similar but unique harcore experience, We also feature a extraction mod that will take you to a safezone where you can buy a Safe hideout and have access to safe trader.
-
-
-## Server Features
-
-        - Escape From Tarkov Lore, Gear, and Items
-        - Stalker Gear
-        - Stalker Mutants
-        - Custom Map Overhaul
-        - Caves for basing
-        - Quests
-        - Extractions
-        - Banking
-        - BaseBuildingPlus
-        - Factions
-        - Secure Containers
-        - Groups
-        - First Person Only
-        - Mutants
-        - Radzone
-        - Vechicle 3PP
-        - Dogtags
-        - Keycards
-        - Keycrates
-        - AutoRun
-        - Breaching Charge Remastered
-        - Unlimited Stamina
-        - Custom Map Edits
-        - Airdrops
-        - Custom Clothing
-        - Custom HUD/UI
-        - Ear Plugs
-        - Helicopters
-        - No Vehicle Damage
-        - Tactical Flava
-        - SNAFU Weapons
-# ESCAPE FROM NAMALSK
 
 By [Goon Gaming Group](https://discord.gg/goongaminggroup "GoonGamingGroup Discord")
 
